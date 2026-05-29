@@ -119,7 +119,6 @@ RAG-Chat-System/
 ├── .gitignore
 └── README.md
 
----
 
 ## 🔧 Installation & Setup
 
