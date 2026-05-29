@@ -89,6 +89,9 @@ Response returned to frontend and displayed
 ---
 
 ## 📁 Project Structure
+## 📁 Project Structure
+
+```
 RAG-Chat-System/
 │
 ├── rag-frontend/                  # React Frontend
@@ -118,6 +121,7 @@ RAG-Chat-System/
 ├── .env                           # API Keys (not in repo)
 ├── .gitignore
 └── README.md
+```
 
 
 ## 🔧 Installation & Setup
